@@ -19,7 +19,7 @@ Her grup kendi üyelerini içeren bir resim çeksin. Biri aydınlık bir ortamda
 ## 3-RESIM ISLEME(piksel komşuluğu işlemleri)
 Her grup çektiği resimlerden bir tanesinde **K=[-4 0 0;0 0 0;0 0 4]** kernelini kullanarak konvulasyon işlemi uygulayarak sonuç resmini elde ediniz.
 ## 4-RESIM ISLEME(piksel komşuluğu işlemleri)
-**a)** Çektiğiniz bir manzara resmi üzerinde **medyan filtre** uygulayarak sonucunu kaydediniz.
+**a)** Çektiğiniz bir manzara resmi üzerinde **medyan filtre** uygulayarak sonucunu kaydediniz.<br>
 <b>b) K=(1/81)*ones(9)</b> kerneli ile konvulasyonu sonucunu kaydediniz. 
 
 ## 5-Renk Uzayları ile dönüşüm 
