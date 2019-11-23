@@ -1,6 +1,15 @@
 # Digital-Image-Processing-Task-1-with-MATLAB
 ## Digital Image Processing Task-1 with MATLAB 2019b App Designer Interface
 
+<p align="center">
+
+  <img src="https://github.com/mguludag/Digital-Image-Processing-Task-1-with-MATLAB/blob/master/2019-11-24_023846.png?raw=true">
+  interface
+
+</p>
+
+
+
 ## 1-YAPAY RESIM OLUŞTURMA
 Yapay daire çiziminde kullanılan matemtiksel ifade yardımı ile siyah arka plan üzerine 20 adet farklı boyutlarda hilal resmi çizdiriniz. Matematiksel olarak çizimi nasıl yaptığınızı açıklayınız.
 
